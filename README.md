@@ -19,26 +19,26 @@
   </div>
 
   <div><br>
-    <img alt="Azure" height="30" width="40" src="https://github.com/agwasp/alexgiannotti/blob/main/icons/azure-original.svg">
-    <img alt="Azure DevOps" height="30" width="40" src="https://github.com/agwasp/alexgiannotti/blob/main/icons/Azure-DevOps.svg">    
-    <img alt="Markdown" height="30" width="40" src="https://github.com/agwasp/alexgiannotti/blob/main/icons/markdown-original.svg">
-    <img alt="PowerShell" height="30" width="40" src="https://github.com/agwasp/alexgiannotti/blob/main/icons/powershell-script-file.svg">
-    <img alt="YAML" height="30" width="40" src="https://github.com/agwasp/alexgiannotti/blob/main/icons/yaml-icon.svg">
-    <img alt="Docker" height="30" width="40" src="https://github.com/agwasp/alexgiannotti/blob/main/icons/docker-original.svg">
-    <img alt="Kubernetes" height="30" width="40" src="https://github.com/agwasp/alexgiannotti/blob/main/icons/kubernetes-icon.svg">
-    <img alt="Terraform" height="30" width="40" src="https://github.com/agwasp/alexgiannotti/blob/main/icons/terraform-icon.svg">
-    <img alt="Terratest" height="30" width="40" src="https://github.com/agwasp/alexgiannotti/blob/main/icons/Terratest-icon.jpg">
-    <img alt="Go" height="30" width="40" src="https://github.com/agwasp/alexgiannotti/blob/main/icons/go-original.svg">
-    <img alt="TFSec" height="30" width="40" src="https://github.com/agwasp/alexgiannotti/blob/main/icons/tfsec-icon.png">
-    <img alt="VSCode" height="30" width="40" src="https://github.com/agwasp/alexgiannotti/blob/main/icons/vscode-original.svg">
+    <img alt="Azure" height="30" width="40" src="https://github.com/agwasp/agwasp/blob/main/icons/azure-original.svg">
+    <img alt="Azure DevOps" height="30" width="40" src="https://github.com/agwasp/agwasp/blob/main/icons/Azure-DevOps.svg">
+    <img alt="Markdown" height="30" width="40" src="https://github.com/agwasp/agwasp/blob/main/icons/markdown-original.svg">
+    <img alt="PowerShell" height="30" width="40" src="https://github.com/agwasp/agwasp/blob/main/icons/powershell-script-file.svg">
+    <img alt="YAML" height="30" width="40" src="https://github.com/agwasp/agwasp/blob/main/icons/yaml-icon.svg">
+    <img alt="Docker" height="30" width="40" src="https://github.com/agwasp/agwasp/blob/main/icons/docker-original.svg">
+    <img alt="Kubernetes" height="30" width="40" src="https://github.com/agwasp/agwasp/blob/main/icons/kubernetes-icon.svg">
+    <img alt="Terraform" height="30" width="40" src="https://github.com/agwasp/agwasp/blob/main/icons/terraform-icon.svg">
+    <img alt="Terratest" height="30" width="40" src="https://github.com/agwasp/agwasp/blob/main/icons/Terratest-icon.jpg">
+    <img alt="Go" height="30" width="40" src="https://github.com/agwasp/agwasp/blob/main/icons/go-original.svg">
+    <img alt="TFSec" height="30" width="40" src="https://github.com/agwasp/agwasp/blob/main/icons/tfsec-icon.png">
+    <img alt="VSCode" height="30" width="40" src="https://github.com/agwasp/agwasp/blob/main/icons/vscode-original.svg">
   </div>
 </div>
 
 ##
 
-<div align="center" style="display: inline_block"><br>
-  <a href="https://www.linkedin.com/in/alexgiannotti/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+<!-- <div align="center" style="display: inline_block"><br>
+  <a href="https://www.linkedin.com/in/xxxxxxx/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div> -->
 
 ##
 
